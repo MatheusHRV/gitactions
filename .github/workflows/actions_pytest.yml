@@ -29,4 +29,4 @@ jobs:
     
     - name: Run tests
       run: |
-        pytest C:/Users/bymat/Python/tests/test_string_comparison.py
+        pytest tests/test_string_comparison.py
